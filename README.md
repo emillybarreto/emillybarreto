@@ -25,10 +25,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139=[https://sites.google.com/view/emillybarreto]" 
-alt="Portfolio"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/emillybarreto/" 
-alt="LinkedIn"/></a>
+  <a href="https://sites.google.com/view/emillybarreto">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  <a href="https://www.linkedin.com/in/emillybarreto/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
