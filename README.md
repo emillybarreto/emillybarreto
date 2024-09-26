@@ -3,7 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-  Sou analista de dados pleno no setor automotivo e tenho experiência em análise de dados desde 2019, com foco em tecnologia e negócios. Estou sempre aprimorando minhas habilidades em ferramentas como Power BI, Python e ETL. Meu objetivo é crescer profissionalmente e contribuir para projetos inovadores que impactem positivamente o setor.
+  Sou analista de dados pleno no setor automotivo e tenho experiência em análise de dados desde 2019, com foco em tecnologia e negócios. 
+</p>
+<p align="left"> 
+  Estou sempre aprimorando minhas habilidades em ferramentas como Power BI, Python e ETL.
+</p>
+<p align="left"> 
+  Meu objetivo é crescer profissionalmente e contribuir para projetos inovadores que impactem positivamente o setor.
 </p>
 
 <p align="left">
